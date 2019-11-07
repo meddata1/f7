@@ -7,7 +7,7 @@ routes = [
     path: '/about/',
     url: './pages/about.html',
   },
-    {
+  {
     path: '/treeview/',
     componentUrl: './pages/treeview.html',
   },
