@@ -7,6 +7,18 @@ routes = [
     path: '/about/',
     url: './pages/about.html',
   },
+    {
+    path: '/1/',
+    url: './pages/1.html',
+  },
+    {
+    path: '/2/',
+    url: './pages/2.html',
+  },
+    {
+    path: '/3/',
+    url: './pages/3.html',
+  },
   {
     path: '/treeview/',
     componentUrl: './pages/treeview.html',
